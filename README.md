@@ -1,1 +1,1 @@
-# sql-project
+# music store sql project
